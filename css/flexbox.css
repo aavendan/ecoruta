@@ -19,8 +19,6 @@
 }
 
 /* Actividad 2: tarjetas */
-/* Actividad 2: tarjetas */
-
 .tarjetas { display: flex; gap: 1.5rem; }
 
 .tarjeta {
@@ -31,7 +29,7 @@
 .enlace { margin-top: auto; }
 
 /* Actividad 3: estructura y pie */
-/* Actividad 3: estructura y pie */
+
 
 .contenedor {
     display: flex;
@@ -44,7 +42,6 @@
 .pie-columnas { display: flex; gap: 2rem; }
 .columna { flex: 1; }
 
-/* Actividad 4: galería */
 /* Actividad 4: galería */
 
 .galeria { display: flex; flex-wrap: wrap; gap: 1rem; }

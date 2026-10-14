@@ -20,7 +20,6 @@
 
 /* Actividad 2: tarjetas */
 
-/* Actividad 2: tarjetas */
 
 .tarjetas {
      display: grid;
@@ -59,7 +58,6 @@
     gap: 1rem;
 }
 
-/* Actividad 5: adaptación a pantallas pequeñas */
 /* Actividad 5: adaptación a pantallas pequeñas */
 
 @media (max-width: 768px) {
